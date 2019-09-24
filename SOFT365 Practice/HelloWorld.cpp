@@ -94,4 +94,12 @@ int main()
 	return 0;
 
 	*/
+
+	/* Task 7 - Print ASCII Value of character */
+	char c;
+	cout << "Enter a character: ";
+	cin >> c;
+	cout << "The ASCII value of the character you entered is: " << int(c);
+	return 0;
+
 }
